@@ -198,17 +198,21 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--iris);
-  background-color: #f4f4fd;
+  background-color: var(--cloud);
   cursor: pointer;
+  padding: 12px 24px;
+  border: 1px solid var(--cornflower);
 }
 
 .portfolio-button:hover {
   color: var(--white);
   background-color: var(--ocean);
+  border: 1px solid transparent;
 }
 .portfolio-button:focus {
   color: var(--white);
   background-color: var(--ocean);
+  border: 1px solid transparent;
 }
 
 .contact {
@@ -334,12 +338,14 @@ ol {
   margin-bottom: 72px;
   padding-left: 427px;
   padding-right: 427px;
+  justify-content: center;
 }
 .portfolio-images {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
   padding-bottom: 120px;
+  row-gap: 48px;
 }
 .photo div {
   padding-left: 16px;
@@ -391,4 +397,7 @@ ol {
 }
 .page-footer-description {
   max-width: 264px;
+}
+.portfolio-main-section {
+  padding: 96px 0 120px 0;
 }
