@@ -361,7 +361,7 @@ ol {
 .second-section {
   padding: 120px 0;
 }
-solutions-list-item {
+.solutions-list-item {
   flex-basis: calc((100% - 72px) / 4);
 }
 .third-section {
