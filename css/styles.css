@@ -364,3 +364,9 @@ ol {
 solutions-list-item {
   flex-basis: calc((100% - 72px) / 4);
 }
+.third-section {
+  padding-bottom: 120px;
+}
+.images-list-item {
+  width: calc((100% - 48px) / 3);
+}
