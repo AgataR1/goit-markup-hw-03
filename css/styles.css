@@ -329,7 +329,9 @@ ol {
 }
 .footer-content a {
   padding-top: 101.5px;
-  margin-bottom: 17.5px;
+
+  margin-bottom: 16px;
+  display: inline-block;
 }
 .button-list {
   display: flex;
@@ -391,8 +393,6 @@ ol {
   padding: 100px 0;
 }
 .logo {
-  display: inline-block;
-  margin-bottom: 16px;
   align-items: center;
 }
 .page-footer-description {
