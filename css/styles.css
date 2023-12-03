@@ -75,6 +75,8 @@ ol {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .list-item:hover {
@@ -239,7 +241,7 @@ ol {
 .menu {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+
   height: 72px;
   border-bottom: 1px solid var(--cornflower);
   flex-shrink: 0;
@@ -247,6 +249,7 @@ ol {
 .menu-nav {
   display: flex;
   margin-left: 156px;
+  align-items: center;
 }
 .menu-list {
   display: flex;
@@ -342,4 +345,7 @@ ol {
   padding-right: 16px;
   margin-top: 32px;
   margin-bottom: 32px;
+}
+.web-menu {
+  border-bottom: 1px solid #e7e9fc;
 }
