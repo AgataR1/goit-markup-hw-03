@@ -358,3 +358,9 @@ ol {
 .first-section-button {
   min-width: 169px;
 }
+.second-section {
+  padding: 120px 0;
+}
+solutions-list-item {
+  flex-basis: calc((100% - 72px) / 4);
+}
