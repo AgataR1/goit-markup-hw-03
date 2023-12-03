@@ -401,7 +401,8 @@ ol {
 .photo-div {
   padding-left: 16px;
   padding-right: 16px;
-  margin-top: 32px;
-  margin-bottom: 32px;
+  padding-top: 32px;
+  padding-bottom: 32px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
