@@ -329,9 +329,8 @@ ol {
   justify-content: baseline;
   margin-left: 156px;
 }
-.footer-content a {
+.footer-content > a {
   padding-top: 101.5px;
-
   margin-bottom: 16px;
   display: inline-block;
 }
