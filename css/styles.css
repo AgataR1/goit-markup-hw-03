@@ -349,3 +349,12 @@ ol {
 .web-menu {
   border-bottom: 1px solid #e7e9fc;
 }
+.first-section {
+  padding: 188px 0;
+}
+.header-one {
+  max-width: 496px;
+}
+.first-section-button {
+  min-width: 169px;
+}
