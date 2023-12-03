@@ -54,6 +54,7 @@ ol {
   text-decoration: none;
   margin-right: 76px;
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .highlight {
@@ -187,6 +188,7 @@ ol {
   line-height: 1.5;
   color: var(--cloud);
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
 .link {
   text-decoration: none;
@@ -319,7 +321,6 @@ ol {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .page-footer-description {
-  width: 264px;
   padding-bottom: 100px;
 }
 .footer-content {
