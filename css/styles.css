@@ -53,6 +53,7 @@ ol {
   text-transform: uppercase;
   text-decoration: none;
   margin-right: 76px;
+  margin-bottom: 16px;
 }
 
 .highlight {
@@ -349,12 +350,7 @@ ol {
   padding-bottom: 120px;
   row-gap: 48px;
 }
-.photo div {
-  padding-left: 16px;
-  padding-right: 16px;
-  margin-top: 32px;
-  margin-bottom: 32px;
-}
+
 .web-menu {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -400,4 +396,12 @@ ol {
 }
 .portfolio-main-section {
   padding: 96px 0 120px 0;
+}
+
+.photo-div {
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  border: 1px solid #e7e9fc;
 }
