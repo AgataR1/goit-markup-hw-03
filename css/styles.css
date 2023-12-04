@@ -406,3 +406,6 @@ ol {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
+.logo .link {
+  display: inline-block;
+}
