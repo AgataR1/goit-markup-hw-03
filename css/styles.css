@@ -133,7 +133,6 @@ ol {
   padding: 16px 32px;
   border: 4px;
   margin-top: 48px;
-  margin-bottom: 188px;
 }
 .first-section-button:hover {
   background-color: var(--ocean);
@@ -317,7 +316,7 @@ ol {
 .button-list {
   display: flex;
   gap: 24px;
-  margin-top: 96px;
+
   margin-bottom: 72px;
 
   justify-content: center;
