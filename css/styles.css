@@ -290,7 +290,7 @@ ol {
   display: flex;
   gap: 24px;
   justify-content: center;
-  padding-bottom: 120px;
+
   padding-left: 156px;
   padding-right: 156px;
 }
@@ -355,7 +355,7 @@ ol {
 }
 .section-four {
   padding-top: 120px;
-  padding-bottom: 0;
+  padding-bottom: 120px;
   padding-left: 0;
   padding-right: 0;
 }
